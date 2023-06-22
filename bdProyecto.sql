@@ -60,8 +60,8 @@
 
     INSERT INTO productos (id_prod, nombre_prod, precio_prod) VALUES (null, 'Yeezy', 2600);
 
-    INSERT INTO admins (user_admin, contra_admin)
-    VALUES ('bray', 'clau');
+    INSERT INTO admins (id_admin, user_admin, contra_admin)
+    VALUES (null, 'bray', '$2y$10$uqiwil.JdLAIc.utc/y8y.PZTQtgBc4SknNkz2BVlQJQ5PsUDcyjq');
 
 
 
